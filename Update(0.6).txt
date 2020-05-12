@@ -1,0 +1,7 @@
+New Update! 
+
+- Fixed Tree bug
+
+- Fixed version bug
+
+This update updating the 0.6 version! You dont need to make a new server this update is automatically
